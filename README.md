@@ -7,4 +7,4 @@
 백엔드에서 마주치는 문제를 하나씩 재현하고 고쳐보는 기록입니다.
 최근에는 현황 화면 집계가 12억 행을 읽던 문제를 다뤘습니다.
 
-[모듈 둘러보기](https://xo0449.github.io/backend-lab/) · [기술 블로그](https://velog.io/@dreamjh/posts)
+[경력과 연락처](https://xo0449.github.io/) · [모듈 둘러보기](https://xo0449.github.io/backend-lab/) · [글](https://xo0449.github.io/posts/)
